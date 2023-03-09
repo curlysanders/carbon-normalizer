@@ -1,5 +1,5 @@
 {
-    "name": "rtuin/carbon-normalizer",
+    "name": "curly_sanders/carbon-normalizer",
     "description": "Normalizes to (and from) Carbon and native DateTime objects",
     "type": "library",
     "keywords": ["symfony", "serializer", "normalizer", "carbon"],
